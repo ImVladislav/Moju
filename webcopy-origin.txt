@@ -1,0 +1,308 @@
+Uri: https://www.mojomeme.xyz/
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\index.htm
+Content Type: text/html
+
+Uri: https://www.mojomeme.xyz/favicon/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\favicon\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/favicon/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\favicon\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/favicon/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\favicon\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/favicon/manifest.json
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\favicon\manifest.json
+Content Type: application/json
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhowtobuy-1.e7ecc0b8.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\howtobuy-1-1.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhowtobuy-1.e7ecc0b8.png&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\howtobuy-1.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhowtobuy-2.c79c7ceb.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\howtobuy-2-1.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhowtobuy-2.c79c7ceb.png&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\howtobuy-2.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhowtobuy-3.a967a043.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\howtobuy-3-1.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhowtobuy-3.a967a043.png&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\howtobuy-3.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhowtobuy-4.82f6a6b4.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\howtobuy-4-1.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhowtobuy-4.82f6a6b4.png&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\howtobuy-4.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flights.be056f66.png&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\lights.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.f6eea29c.png&w=384&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\logo-1.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.f6eea29c.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\logo.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmojo-gotcha.41adcca5.png&w=1080&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\mojo-gotcha-1.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmojo-gotcha.41adcca5.png&w=2048&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\mojo-gotcha.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmojo-home.1427f260.jpg&w=1080&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\mojo-home-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmojo-home.1427f260.jpg&w=1200&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\mojo-home-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmojo-home.1427f260.jpg&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\mojo-home-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmojo-home.1427f260.jpg&w=2048&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\mojo-home-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmojo-home.1427f260.jpg&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\mojo-home.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmojo-home.1427f260.jpg&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\mojo-home-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmojo-home.1427f260.jpg&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\mojo-home-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmojo-home.1427f260.jpg&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\mojo-home-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmojo-sticker.fc15011e.png&w=1080&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\mojo-sticker-5.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmojo-sticker.fc15011e.png&w=1200&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\mojo-sticker-6.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmojo-sticker.fc15011e.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\mojo-sticker-7.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmojo-sticker.fc15011e.png&w=2048&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\mojo-sticker-8.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmojo-sticker.fc15011e.png&w=384&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\mojo-sticker-1.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmojo-sticker.fc15011e.png&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\mojo-sticker.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmojo-sticker.fc15011e.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\mojo-sticker-2.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmojo-sticker.fc15011e.png&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\mojo-sticker-3.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmojo-sticker.fc15011e.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\mojo-sticker-4.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmojonomics-bottom.04cb79c0.png&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\mojonomics-bottom.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmojonomics-top.cf37de6d.png&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\mojonomics-top.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmojonomics-w-text.2ecfaa41.png&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\mojonomics-w-text.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frocks.8ffb4f42.png&w=1080&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\rocks-6.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frocks.8ffb4f42.png&w=1200&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\rocks-7.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frocks.8ffb4f42.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\rocks-8.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frocks.8ffb4f42.png&w=2048&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\rocks-9.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frocks.8ffb4f42.png&w=256&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\rocks-1.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frocks.8ffb4f42.png&w=384&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\rocks-2.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frocks.8ffb4f42.png&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\rocks.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frocks.8ffb4f42.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\rocks-3.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frocks.8ffb4f42.png&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\rocks-4.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frocks.8ffb4f42.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\rocks-5.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstory-1.3e9fd586.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\story-1.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstory-1.3e9fd586.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\story-1-1.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstory-2.dc2c647d.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\story-2.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstory-2.dc2c647d.png&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\story-2-1.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstory-3.f6cf3439.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\story-3.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstory-3.f6cf3439.png&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\story-3-1.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstory.710dfd78.png&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\story.png
+Content Type: image/png
+
+Uri: https://www.mojomeme.xyz/_next/static/chunks/23-4e4bb4702b84118b.js
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\static\chunks\23-4e4bb4702b84118b.js
+Content Type: application/javascript
+
+Uri: https://www.mojomeme.xyz/_next/static/chunks/522-27baaa4fb7e142cd.js
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\static\chunks\522-27baaa4fb7e142cd.js
+Content Type: application/javascript
+
+Uri: https://www.mojomeme.xyz/_next/static/chunks/592-e35c1cad4d69cf59.js
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\static\chunks\592-e35c1cad4d69cf59.js
+Content Type: application/javascript
+
+Uri: https://www.mojomeme.xyz/_next/static/chunks/639-d2b660cbf5ce3bff.js
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\static\chunks\639-d2b660cbf5ce3bff.js
+Content Type: application/javascript
+
+Uri: https://www.mojomeme.xyz/_next/static/chunks/728-0ae9855f0e0443d0.js
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\static\chunks\728-0ae9855f0e0443d0.js
+Content Type: application/javascript
+
+Uri: https://www.mojomeme.xyz/_next/static/chunks/776-060218324f657e17.js
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\static\chunks\776-060218324f657e17.js
+Content Type: application/javascript
+
+Uri: https://www.mojomeme.xyz/_next/static/chunks/app/layout-7076f2e08a021d3f.js
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\static\chunks\app\layout-7076f2e08a021d3f.js
+Content Type: application/javascript
+
+Uri: https://www.mojomeme.xyz/_next/static/chunks/app/page-2ee6e8a4a6174933.js
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\static\chunks\app\page-2ee6e8a4a6174933.js
+Content Type: application/javascript
+
+Uri: https://www.mojomeme.xyz/_next/static/chunks/c15bf2b0-77a7fe2edf0e5bbc.js
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\static\chunks\c15bf2b0-77a7fe2edf0e5bbc.js
+Content Type: application/javascript
+
+Uri: https://www.mojomeme.xyz/_next/static/chunks/fd9d1056-5d0ba2f9c71200e9.js
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\static\chunks\fd9d1056-5d0ba2f9c71200e9.js
+Content Type: application/javascript
+
+Uri: https://www.mojomeme.xyz/_next/static/chunks/main-app-693d2cd1d3938aa5.js
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\static\chunks\main-app-693d2cd1d3938aa5.js
+Content Type: application/javascript
+
+Uri: https://www.mojomeme.xyz/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\static\chunks\polyfills-78c92fac7aa8fdd8.js
+Content Type: application/javascript
+
+Uri: https://www.mojomeme.xyz/_next/static/chunks/webpack-bab7aa654ddad1d5.js
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\static\chunks\webpack-bab7aa654ddad1d5.js
+Content Type: application/javascript
+
+Uri: https://www.mojomeme.xyz/_next/static/css/5b7ecd78934c5e51.css
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\static\css\5b7ecd78934c5e51.css
+Content Type: text/css
+
+Uri: https://www.mojomeme.xyz/_next/static/media/3e469a8196fe2c0e-s.p.ttf
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\static\media\3e469a8196fe2c0e-s.p.ttf
+Content Type: font/ttf
+
+Uri: https://www.mojomeme.xyz/_next/static/media/7d39d0f4f0778474-s.p.ttf
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\static\media\7d39d0f4f0778474-s.p.ttf
+Content Type: font/ttf
+
+Uri: https://www.mojomeme.xyz/_next/static/media/944b8438f24ffc2c-s.p.ttf
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\static\media\944b8438f24ffc2c-s.p.ttf
+Content Type: font/ttf
+
+Uri: https://www.mojomeme.xyz/_next/static/media/copy-icon.bc588790.svg
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\static\media\copy-icon.bc588790.svg
+Content Type: image/svg+xml
+
+Uri: https://www.mojomeme.xyz/_next/static/media/dextools.19aa9fc1.svg
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\static\media\dextools.19aa9fc1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.mojomeme.xyz/_next/static/media/path.197eee0c.svg
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\static\media\path.197eee0c.svg
+Content Type: image/svg+xml
+
+Uri: https://www.mojomeme.xyz/_next/static/media/telegram.6e141edd.svg
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\static\media\telegram.6e141edd.svg
+Content Type: image/svg+xml
+
+Uri: https://www.mojomeme.xyz/_next/static/media/x.9487e30a.svg
+File Name: C:\Downloaded Web Sites\www.mojomeme.xyz\_next\static\media\x.9487e30a.svg
+Content Type: image/svg+xml
+
